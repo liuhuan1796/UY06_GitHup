@@ -20,8 +20,6 @@ android {
             main{
                 res.srcDirs =[
                         '/src/main/res/layouts/main_layout',
-                        '/src/main/res/layouts/fragment_layout',
-                        '/src/main/res/layouts/adapter_layout',
                         '/src/main/res/layouts',
                         '/src/main/res'
                 ]
